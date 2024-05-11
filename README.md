@@ -2,8 +2,6 @@
 
 This extension uses a Support Vector Machine to classify and blur addiction-related text content that might have negative impact on individuals recovering from drug addiction.
 
-## Getting Started
-
 ### Dependencies
 
 Python 3.11.9 was used for this repository. Activate the virtual environment, called `my_thesis` to have access to the other dependencies.
