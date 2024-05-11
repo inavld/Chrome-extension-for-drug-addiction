@@ -1,4 +1,4 @@
-# SoberSurfer: a Chrome extension that uses an AI model and blurrs triggering content
+# SoberSurfer: a Chrome extension that uses an AI model and blurs triggering content
 
 This extension uses a Support Vector Machine to classify and blur addiction-related text content that might have negative impact on individuals recovering from drug addiction.
 
