@@ -17,6 +17,11 @@ Secondly, open your Chrome extensions page and upload SoberSurfer by clicking `L
 
 ![image](https://github.com/inavld/Chrome-extension-for-drug-addiction/assets/130556930/bdb5edc1-f5f9-4a1b-9677-a6d636f11bb0)
 
+### Reults of the model
+![image](https://github.com/inavld/Chrome-extension-for-drug-addiction/assets/130556930/b3d89833-7a5b-4bc8-b29d-6e7876c457ec)
+![image](https://github.com/inavld/Chrome-extension-for-drug-addiction/assets/130556930/8ca95795-1953-41b3-8c3f-64b0917b9a4d)
+![image](https://github.com/inavld/Chrome-extension-for-drug-addiction/assets/130556930/8e711ccc-0cef-41d5-9cc3-4a271d7113e0)
+
 ## Authors
 
 Ina Maria Vlad
