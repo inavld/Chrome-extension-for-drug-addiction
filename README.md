@@ -27,7 +27,7 @@ Secondly, open your Chrome extensions page and upload SoberSurfer by clicking `L
 Ina Maria Vlad
 
 ## Acknowledgments
+* [Kaggle notebook](https://www.kaggle.com/code/rahulvv/lstm-machine-learning-models-89-accuracy/notebook)
 
-Inspiration, code snippets, etc.
 * [Reddit dataset](https://www.kaggle.com/datasets/prakharrathi25/reddit-data-huge)
 * [Dash drug data](https://zenodo.org/records/4278895)
