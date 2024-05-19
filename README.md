@@ -30,3 +30,4 @@ Ina Maria Vlad
 
 Inspiration, code snippets, etc.
 * [Reddit dataset](https://www.kaggle.com/datasets/prakharrathi25/reddit-data-huge)
+* [Dash drug data]https://zenodo.org/records/4278895
