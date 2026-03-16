@@ -16,6 +16,8 @@ npm install
 To use the extension, firstly run the `app.py` file that starts the Flask server where the SVM is hosted. 
 Secondly, open your Chrome extensions page and upload SoberSurfer by clicking `Load unpacked` and turning it on.
 
+![image](https://github.com/user-attachments/assets/356d44d4-89c8-4d05-b6bc-f62d5d816ce7)  
+
 ### Examples:
 
 ![image](https://github.com/inavld/Chrome-extension-for-drug-addiction/assets/130556930/4607bf3f-0cb8-4671-8394-24361b61c34f)
