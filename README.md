@@ -2,12 +2,17 @@
 
 This extension uses a Support Vector Machine to classify and blur addiction-related text content that might have negative impact on individuals recovering from drug addiction.
 
-### Dependencies
+### Setting up 
 
-Python 3.11.9 was used for this repository. Activate the virtual environment, called `thesis_code` to have access to the other dependencies.
-
-### Executing program
-
+Python 3.11.9 was used for this repository. Install the necessary libraries for python from `requirements.txt` in your virtual environment:  
+```python
+pip install -r requirements.txt
+```
+The app also uses the Node.js packages defined in `package.json`. Run:  
+```bash
+npm install
+```
+### Usage  
 To use the extension, firstly run the `app.py` file that starts the Flask server where the SVM is hosted. 
 Secondly, open your Chrome extensions page and upload SoberSurfer by clicking `Load unpacked` and turning it on.
 
